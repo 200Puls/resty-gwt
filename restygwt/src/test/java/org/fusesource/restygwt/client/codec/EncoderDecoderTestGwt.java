@@ -856,7 +856,7 @@ public class EncoderDecoderTestGwt extends GWTTestCase {
         
         @JsonIgnore
         private int myAge = 123;
-
+		
 		@XmlTransient
         private int myAgeJax = 123;
 		
